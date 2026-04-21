@@ -6,3 +6,4 @@ chromadb-client==1.5.3
 ollama==0.4.8
 einops==0.8.2
 numpy==1.26.4
+flask==3.1.3
