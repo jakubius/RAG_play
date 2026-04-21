@@ -1,0 +1,8 @@
+PyMuPDF==1.26.0
+langchain==0.3.25
+langchain-text-splitters==0.3.8
+sentence-transformers==4.1.0
+chromadb-client==1.5.3
+ollama==0.4.8
+einops==0.8.2
+numpy==1.26.4
